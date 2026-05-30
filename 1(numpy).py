@@ -5,3 +5,5 @@ C= A*B
 D= A@B
 E=A.dot(B)
 print("A:",A,"\n","B:", B,"\n","C:", C,"\n","D:", D,"\n","E:", E)
+# @ or x.dot(y) mean matrix multiplications
+# * will go elementwise to multiply
